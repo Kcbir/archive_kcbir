@@ -14,7 +14,7 @@
 
 ## Recent Works
 
-At <a href="https://aniate.com" target="_blank"><strong>Abstractive Labs</strong></a>, my focus is on building the intelligence layer of OS. We're designing the neural substrate for informational intelligence, focusing on building the neural substrate for reinforcement learning for real-time decision-making agents. 
+At <a href="https://aniate.com" target="_blank"><strong>Aniate Labs</strong></a>, my focus is on building the intelligence layer of OS. We're designing the neural substrate for informational intelligence, focusing on building the neural substrate for reinforcement learning for real-time decision-making agents. 
 
 - &nbsp; **Research Interests:** Reinforcement learning, NLP, continual learning, and dynamic knowledge graphs.
 - &nbsp; **Ask me about:** Python, PyTorch, system architecture, reasoning engines and quantitative modeling.
