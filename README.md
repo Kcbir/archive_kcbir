@@ -5,16 +5,16 @@
 </div>
 
 <p align="center">
-  I'm an undergraduate researcher exploring the intersection of <strong>machine learning, <strong>economics, and <strong>information systems. My research focuses on modeling how qualitative information interacts with market dynamics and how these relationships can be quantified through AI-driven models.
+  I'm an undergraduate researcher exploring the intersection of <strong>machine learning, <strong>cognitive architectures, and <strong>information systems. My work focuses on systems level design of language models for reasoning under constraints, combining continual learning and reinforcement learning to build lean, low latency models for resource constrained environments.
 <br><br>
-  I currently lead research and development at <strong>Abstractive Labs, where we're building the intelligence layer of the modern world—systems that remember and reason in real time.<br><br>
+  I currently lead <strong>Aniate Labs, where we develop open source infrastructure for real time memory and reasoning. Current projects include a Rust accelerated temporal memory middleware with sub 50 ms retrieval and Ant, a terminal native intent execution layer for deterministic natural language to OS command mapping.<br><br>
 </p>
 
 ---
 
 ## Recent Works
 
-At <a href="https://abstractive.me" target="_blank"><strong>Abstractive Labs</strong></a>, my R&D focus is on building the intelligence layer of the modern world. We're designing the neural substrate for financial and informational intelligence, focusing on building the neural substrate for reinforcement learning for real-time decision-making agents. 
+At <a href="https://aniate.com" target="_blank"><strong>Abstractive Labs</strong></a>, my focus is on building the intelligence layer of OS. We're designing the neural substrate for informational intelligence, focusing on building the neural substrate for reinforcement learning for real-time decision-making agents. 
 
 - &nbsp; **Research Interests:** Reinforcement learning, NLP, continual learning, and dynamic knowledge graphs.
 - &nbsp; **Ask me about:** Python, PyTorch, system architecture, reasoning engines and quantitative modeling.
