@@ -16,6 +16,8 @@
 
 At <a href="https://aniate.com" target="_blank"><strong>Aniate Labs</strong></a>, my focus is on building the intelligence layer of OS. We're designing the neural substrate for informational intelligence, focusing on building the neural substrate for reinforcement learning for real-time decision-making agents. 
 
+I am architecting high frequency news streams pipelines for real time financial streams, designing ingestion systems. Developing sentiment and semantic modeling modules that transform qualitative news into structured signals for downstream decision making systems.
+
 - &nbsp; **Research Interests:** Reinforcement learning, NLP, continual learning, and dynamic knowledge graphs.
 - &nbsp; **Ask me about:** Python, PyTorch, system architecture, reasoning engines and quantitative modeling.
 - &nbsp; **Connect with me:** [LinkedIn](https://www.linkedin.com/in/murj) | [X](https://x.com/Ktbir) | [Website](https://kabir.codes)
