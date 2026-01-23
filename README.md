@@ -22,6 +22,7 @@ I am architecting high frequency news streams pipelines for real time financial 
 - &nbsp; **Ask me about:** Python, PyTorch, system architecture, reasoning engines and quantitative modeling.
 - &nbsp; **Connect with me:** [LinkedIn](https://www.linkedin.com/in/murj) | [X](https://x.com/Ktbir) | [Website](https://kabir.codes)
 
+Check out more on: pip install kabir; kabir
 ---
 
 <p align="center">
